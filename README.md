@@ -43,7 +43,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](www.linkedin.com/in/joana-cardoso-52975929a)  
+- [LinkedIn](www.linkedin.com/in/joana-cardoso-dv)  
 - [Email](mailto:j.pires.cardoso1999@gmail.com)
 
 ---
