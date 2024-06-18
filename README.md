@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Desenvolvedora de software em formação com uma paixão por tecnologia e programação. A minha caminhada levou-me a explorar diversas áreas, concluindo-se na descoberta do meu interesse pelo desenvolvimento de software.
+Desenvolvedora de software em formação com uma paixão por tecnologia e programação. Na minha caminhada explorei diversas áreas, concluindo-se na descoberta do meu interesse pelo desenvolvimento de software.
 
 ---
 
@@ -20,16 +20,16 @@ Desenvolvedora de software em formação com uma paixão por tecnologia e progra
 
 Aqui estão algumas das tecnologias com as quais estou familiarizada:
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) JavaScript
-- ![HTML](https://img.shields.io/badge/-HTML-orange) HTML
-- ![PHP](https://img.shields.io/badge/-PHP-blue) PHP
-- ![Laravel](https://img.shields.io/badge/-Laravel-red) Laravel
-- ![C#](https://img.shields.io/badge/-C%23-purple) C#
-- ![CSS](https://img.shields.io/badge/-CSS-blueviolet) CSS
-- ![Git](https://img.shields.io/badge/-Git-lightgrey) Git
-- ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen) GitHub
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue) MySQL
-- ![SQL](https://img.shields.io/badge/-SQL-lightgrey) SQL
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) 
+- ![HTML](https://img.shields.io/badge/-HTML-orange) 
+- ![PHP](https://img.shields.io/badge/-PHP-blue) 
+- ![Laravel](https://img.shields.io/badge/-Laravel-red) 
+- ![C#](https://img.shields.io/badge/-C%23-purple) 
+- ![CSS](https://img.shields.io/badge/-CSS-blueviolet) 
+- ![Git](https://img.shields.io/badge/-Git-lightgrey) 
+- ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen) 
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue) 
+- ![SQL](https://img.shields.io/badge/-SQL-lightgrey) 
 
 ---
 
