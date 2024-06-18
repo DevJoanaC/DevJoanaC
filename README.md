@@ -1,24 +1,24 @@
-# 👩‍💻 Olá, sou a Joana! 👋
+# 👩‍💻 Hi, I'm Joana! 👋
 
 ![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-## Sobre Mim
+## About Me
 
-Desenvolvedora de software em formação com uma paixão por tecnologia e programação. Na minha caminhada explorei diversas áreas, concluindo-se na descoberta do meu interesse pelo desenvolvimento de software.
-
----
-
-## O Que Eu Faço
-
-- 💻 Desenvolvedora de Software em formação
-- 🎓 Futuramente, estudante de Engenharia Informática
-- 🍽️ Contribuição para o restaurante da família nos fins de semana e durante o verão
+Software developer in training with a passion for technology and programming. Throughout my journey, I've explored various fields, culminating in the discovery of my interest in software development.
 
 ---
 
-## Tecnologias que Aprendi
+## What I Do
 
-Aqui estão algumas das tecnologias com as quais estou familiarizada:
+- 💻 Software Developer in training
+- 🎓 Future Computer Engineering student
+- 🍽️ Helping out at the family restaurant on weekends and during the summer
+
+---
+
+## Technologies I've Learned
+
+Here are some of the technologies I'm familiar with:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) 
 - ![HTML](https://img.shields.io/badge/-HTML-orange) 
@@ -33,23 +33,21 @@ Aqui estão algumas das tecnologias com as quais estou familiarizada:
 
 ---
 
-## Projetos
+## Projects
 
-Aqui estão alguns dos projetos nos quais trabalhei:
+Here are some of the projects I've worked on:
 
-- **[Projeto 1](https://github.com/joana/projeto1)**: Descrição breve do projeto.
-- **[Projeto 2](https://github.com/joana/projeto2)**: Descrição breve do projeto.
-- **[Projeto 3](https://github.com/joana/projeto3)**: Descrição breve do projeto.
+- **[Project 1](https://github.com/joana/projeto1)**: Brief description of the project.
+- **[Project 2](https://github.com/joana/projeto2)**: Brief description of the project.
+- **[Project 3](https://github.com/joana/projeto3)**: Brief description of the project.
 
 ---
 
-## 📫 Como Contactar-me
+## 📫 How to Reach Me
 
 - [LinkedIn](www.linkedin.com/in/joana-cardoso-52975929a)  
 - [Email](mailto:j.pires.cardoso1999@gmail.com)
 
 ---
 
-![Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-Espero que tenha gostado do meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato. Vamos construir algo incrível juntos! 🚀✨
+I hope you enjoyed my profile! Feel free to explore my projects and get in touch. Let's build something amazing together! 🚀✨
