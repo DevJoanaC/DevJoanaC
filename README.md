@@ -12,7 +12,6 @@ Software developer in training with a passion for technology and programming. Th
 
 - 💻 Software Developer in training
 - 🎓 Future Computer Engineering student
-- 🍽️ Helping out at the family restaurant on weekends and during the summer
 
 ---
 
