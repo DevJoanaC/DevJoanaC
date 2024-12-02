@@ -9,8 +9,8 @@ Software developer in training with a passion for technology and programming. Th
 
 ## What I Do
 
-- 💻 Software Developer in training
-- 🎓 Future Computer Engineering student
+- 💻 Certificated Software Developer
+- 🎓 Computer Engineering Student
 
 ---
 
