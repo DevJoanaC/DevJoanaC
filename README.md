@@ -17,17 +17,27 @@ Certified software developer passionate about technology and programming. Curren
 
 Here are some of the technologies I'm familiar with:
 
+### Programming Languages:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-- ![HTML](https://img.shields.io/badge/-HTML-orange)  
 - ![PHP](https://img.shields.io/badge/-PHP-blue)  
-- ![Laravel](https://img.shields.io/badge/-Laravel-red)  
 - ![C#](https://img.shields.io/badge/-C%23-purple)  
+- ![Haskell](https://img.shields.io/badge/-Haskell-purple)  
+
+### Markup and Styling:
+- ![HTML](https://img.shields.io/badge/-HTML-orange)  
 - ![CSS](https://img.shields.io/badge/-CSS-blueviolet)  
+
+### Frameworks:
+- ![Laravel](https://img.shields.io/badge/-Laravel-red)  
+
+### Version Control:
 - ![Git](https://img.shields.io/badge/-Git-lightgrey)  
 - ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen)  
+- ![GitLab](https://img.shields.io/badge/-GitLab-orange)  
+
+### Databases:
 - ![MySQL](https://img.shields.io/badge/-MySQL-blue)  
-- ![SQL](https://img.shields.io/badge/-SQL-lightgrey)  
-- ![Haskell](https://img.shields.io/badge/-Haskell-purple)  
+- ![SQL](https://img.shields.io/badge/-SQL-lightgrey)    
 
 ---
 
