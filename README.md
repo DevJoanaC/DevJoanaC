@@ -2,14 +2,14 @@
 
 ## About Me
 
-Certified software developer passionate about technology and programming. Currently, I am in my first year of a Bachelor's degree in Computer Engineering at the University of Minho, where I am enhancing my skills and deepening my knowledge in the field.
+Certified software developer passionate about technology and programming. Currently, I am in my first year of a Bachelor's degree in Informatics Engineering at the University of Minho, where I am enhancing my skills and deepening my knowledge in the field.
 
 ---
 
 ## My Journey
 
 - 💻 Certified Software Developer  
-- 🎓 Computer Engineering Student  
+- 🎓 Informatics Engineering Student  
 
 ---
 
